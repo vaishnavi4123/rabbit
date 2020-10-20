@@ -1,0 +1,39 @@
+.inline{
+    display: inline;
+}
+#topsection
+{
+    background: url(rabbitback.jpeg) center;
+   
+    background-size: 100%;
+    color:cornsilk;
+    font-style: italic;
+}
+#rabbittitle{
+    padding-left: 10px;
+    
+    
+}
+#logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.rabbitblock{
+    padding: 0 ! important;
+    margin:0 ! important;
+}
+.rowspace{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: aqua
+    
+}
+#singuprow{
+    background-color:darkviolet;
+    
+    
+}
+.fun{
+    color: white;
+}
